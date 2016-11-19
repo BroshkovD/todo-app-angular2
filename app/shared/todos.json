@@ -1,0 +1,5 @@
+[
+   { "title": "My todo task #1", "done": false },
+   { "title": "My todo task #2", "done": false },
+   { "title": "My todo task #3", "done": false }
+]
