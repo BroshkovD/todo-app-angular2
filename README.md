@@ -22,4 +22,4 @@ Project application based on Angular2 framework using TypeScript and Semantic UI
 * start
 
 ##3. Demo
-[Demo Todo-App](https://broshkovd.github.io/todo-app-angular2/)
+[Demo Todo-App](http://91.210.164.82/todo-list/)
