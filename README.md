@@ -17,9 +17,9 @@ Project application based on Angular2 framework using TypeScript and Semantic UI
 
 ### Process
 
-* git clone https://github.com/BroshkovD/todo-app-angular2 new-project && cd new-project
+* git clone https://github.com/BroshkovD/todo-app-angular2.git new-project && cd new-project
 * npm i
-* start
+* npm start
 
 ##3. Demo
 [Demo Todo-App](http://91.210.164.82/todo-list/)
